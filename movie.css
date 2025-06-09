@@ -16,6 +16,7 @@ marquee{
 }
 h1{
     font-family: cursive ;
+				width: 10%;
 }
 .grid-container{
     display: grid;
